@@ -43,13 +43,6 @@ This project is a part of our Bachelor's degree in Electronics and Communication
 4. If no motion is detected, the lights stay OFF or run in dim mode (optional).
 5. During the daytime, lights remain OFF regardless of motion.
 
-## Circuit Diagram
-
-![Circuit Diagram](link-to-your-circuit-image)
-
-## Project Demo
-
-📽️ [YouTube Demo Link](https://your-demo-link.com) *(if available)*
 
 ## Authors
 
